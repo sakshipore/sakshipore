@@ -20,7 +20,7 @@ Skills: REACT JS /JS/HML/CSS/Python/Web Development/C/C++
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drontitan&show_icons=true&theme=algolia)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Drontitan)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Drontitan&theme=algolia)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Drontitan)  
 
