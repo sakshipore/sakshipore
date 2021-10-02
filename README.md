@@ -14,10 +14,6 @@ Skills: REACT JS /JS/HML/CSS/Python/Web Development/C/C++
 - ⚡ Fun fact: I am also like you and exploring more and more 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Drontitan)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drontitan)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drontitan&show_icons=true&theme=algolia)
  
 ![Profile views](https://gpvc.arturio.dev/Drontitan)  
