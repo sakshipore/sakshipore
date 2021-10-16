@@ -1,8 +1,10 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pranav</h1>
 <h3 align="center">I'm a enthusiastic Android and IOS Developer from India and currently pursuing BTech in IT. </h3>
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=PranavMasekar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🙋‍♂️ About Me
 
