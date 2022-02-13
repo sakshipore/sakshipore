@@ -26,11 +26,14 @@
 
 <p align="left"> 
     <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
-    <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>  
+    <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a> 
+    </a>  
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg" height="50" /> </a> 
     <a href="http://www.cplusplus.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/cplusplus/cplusplus-original.svg" height="50" /> </a> 
+      <a href="https://go.dev/" target="_blank"> <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Fuchsia.png" height="50" width = "60"/>
+   
 </p>
 
 <br/>
