@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 👯 Here is my **[Resume](https://drive.google.com/file/d/1bo2pjf0Mbho3KhMsNvNYCLGateDXKs1_/view?usp=sharing).**
+- 👯 Here is my **[Resume](https://drive.google.com/file/d/1lx-RChgRmT8aErIXBBYpU0uLe6iT7aiV/view?usp=sharing).**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/PranavMasekar?tab=repositories).**
 
