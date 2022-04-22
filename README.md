@@ -10,17 +10,15 @@
 </h1>
 ## 🙋‍♂️ About Me
 
-- 👨‍💻 I’m currently contributing in **Open Source Projets.**
+- 👨‍💻  **Open Source Contributor.**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 **Learning DevOps and DSA.**
 
-- 👯 Here is my **[Resume](https://drive.google.com/file/d/1lx-RChgRmT8aErIXBBYpU0uLe6iT7aiV/view?usp=sharing).**
+- 👯 Here is my **[Resume](https://drive.google.com/file/d/1FuCR1nUi_G3pV617ruWRxv8FcsGXW7Kz/view?usp=sharing).**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/PranavMasekar?tab=repositories).**
+<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/PranavMasekar?tab=repositories).** -->
 
 - 📫 How to reach me **pranavmasekar4@gmail.com**.
-
-- ⚡ Fun fact **I play COD and have interest in many sports.**
 
 ## 🚀 Languages and Tools:
 
@@ -32,7 +30,9 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg" height="50" /> </a> 
     <a href="http://www.cplusplus.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/cplusplus/cplusplus-original.svg" height="50" /> </a> 
-      <a href="https://go.dev/" target="_blank"> <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Fuchsia.png" height="50" width = "60"/>
+    <a href="https://go.dev/" target="_blank"> <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Fuchsia.png" height="50" width = "60"/>
+    <a href="https://hub.docker.com/u/pranav18vk" target="_blank"> <img src="https://camo.githubusercontent.com/d5942ae771b21e3ea0576598c5c2b2070c0c4f6028e2605691a5c07b94923800/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f646f636b65722e706e67" height="50" width = "60"/>
+    <a href="https://kubernetes.io/" target="_blank"> <img src="https://camo.githubusercontent.com/6d20d4c78e20fa7c89ac8da5ac3073ddc12e05513e13d0dad8af6072187812c9/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6b756265726e657465732e706e67" height="50" width = "50"/>
    
 </p>
 
