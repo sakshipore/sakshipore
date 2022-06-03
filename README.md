@@ -1,6 +1,6 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pranav</h1>
+<h1 align="center">Hi there I'm Pranav Masekar</h1>
 <h3 align="center">I'm a Flutter Developer and DevOps enthusiast from India , currently pursuing BTech in IT. </h3>
 
 <h1 align ="center">
