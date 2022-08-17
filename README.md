@@ -29,6 +29,8 @@
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg" height="50" /> </a> 
+    <a href="https://www.oracle.com/in/java/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="50" /> </a> 
+    <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" height="50" /> </a>
 </p>
 
 <br/>
