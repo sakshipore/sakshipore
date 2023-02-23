@@ -3,7 +3,7 @@ pipeline{
     stages{
         stage("Print"){
             steps{
-                sh "pwd"
+                bat "print README.md"
             }
         }
     }
